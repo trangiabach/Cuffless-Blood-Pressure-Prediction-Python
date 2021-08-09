@@ -64,7 +64,7 @@ y = dataset[['bpmin','bpmax']]
 sbp = list()
 dbp = list()
 real_BP = list()
-with open('/content/gdrive/MyDrive/bp/cleaned_further.csv', 'r') as csvfile:
+with open('D:/Cuff_less_BP_Prediction/cleaned_further.csv', 'r') as csvfile: #replace with file directory
 	csv_reader = csv.reader(csvfile, delimiter = ',')
 	for row in csv_reader:
 		#ptt.append(float(row[2]))
