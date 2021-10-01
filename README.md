@@ -37,10 +37,6 @@ python ensemble.py
 - Test: MAE - 10.865    |    RMSE - 13.775
 
 
-### Source Repository
-
-- Repository gốc: [Link](https://github.com/jeya-maria-jose/Cuff_less_BP_Prediction)
-
 
 
 
